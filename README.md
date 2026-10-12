@@ -1,11 +1,20 @@
-
 # DataCentric Marketers website: B2B data made easier to understand and request
 
 **DataCentric Marketers is a B2B data and lead intelligence business whose website is featured in the [Tech Conversion](https://techconversion.tech/) portfolio. The website brings technology-specific data, MSP databases, industry targeting, enrichment and marketing solutions together with clear routes to request sample records or discuss a campaign.**
 
-![DataCentric Marketers blue website homepage design concept](images/datacentric-homepage-concept-hero.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/datacentric-marketers-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/datacentric-marketers-website-mockup.webp" alt="DataCentric Marketers website mockup by Tech Conversion" width="100%" />
+  </a>
+</p>
 
-*The cover image is a saved design concept, not an independently verified capture of the currently published homepage.*
+<p align="center">
+  <a href="https://datacentricmarketers.com/"><strong>Live website</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/portfolio"><strong>Tech Conversion portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/before-after"><strong>Before &amp; after gallery</strong></a>
+</p>
 
 | | |
 |---|---|
@@ -13,7 +22,7 @@
 | **Website** | [datacentricmarketers.com](https://datacentricmarketers.com/) |
 | **Industry** | B2B data, lead intelligence, data enrichment and marketing services |
 | **Business market** | Global B2B targeting; a Delaware, USA contact address appears on older pages |
-| **Built by** | [Tech Conversion](https://techconversion.tech/), Chennai, India (public portfolio credit) |
+| **Built by** | [Tech Conversion](https://techconversion.tech/), Chennai, India |
 | **Project type** | B2B data and marketing website |
 | **Related services** | [Custom website development](https://techconversion.tech/services/custom-websites), [Enterprise website development](https://techconversion.tech/services/enterprise-websites) |
 | **Portfolio listing** | [techconversion.tech/portfolio](https://techconversion.tech/portfolio) |
@@ -32,7 +41,7 @@ The company describes its records as verified, current and compliant. These are 
 
 B2B data is difficult to evaluate from a broad product label. A prospect searching for MSP contacts may need very different fields from a campaign manager enriching a CRM or an agency building an account-based marketing list. Without clear categories and sample-request routes, visitors can struggle to establish what they are actually purchasing.
 
-The public website addresses that **communication and discovery challenge** by separating data types from marketing solutions, explaining potential use cases and making sample or consultation enquiries visible. This describes the business problem the website serves; it is **not** evidence that any earlier version had measurable navigation or conversion problems.
+The public website addresses that **communication and discovery challenge** by separating data types from marketing solutions, explaining potential use cases and making sample or consultation enquiries visible. This describes the business problem the website serves; it is **not** evidence by itself of measurable navigation or conversion improvement.
 
 ## How the website presents the solution
 
@@ -46,55 +55,62 @@ The public website addresses that **communication and discovery challenge** by s
 
 These are observations about the website's published content and structure, **not a verified internal project log**. This repository does not assert that particular frameworks, integrations, analytics systems or QA procedures were implemented unless independently documented.
 
-## Standards relevant to the website
+## Website and project images
 
-The following references are appropriate for evaluating a B2B marketing website. **They are not certifications or statements that the project passed a formal audit.**
+### Official website mockup
 
-- [Core Web Vitals](https://web.dev/articles/vitals): measure loading performance, interaction responsiveness and visual stability on representative devices.
-- [WCAG 2.2, Level AA](https://www.w3.org/TR/WCAG22/): assess keyboard access, focus indicators, contrast, form labels and image alternatives.
-- [Google Search Essentials](https://developers.google.com/search/docs/essentials): check discoverability, useful content and crawl access for service pages.
-- [Schema.org](https://schema.org/): evaluate appropriate organisation, breadcrumb, website and service markup if implemented.
-- [GDPR](https://commission.europa.eu/law/law-topic/data-protection/data-protection-eu_en), [California privacy law](https://oag.ca.gov/privacy/ccpa) and [CAN-SPAM guidance](https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business): relevant legal references when marketing and personal information are processed, depending on the audience and activity.
+The following Tech Conversion portfolio mockup presents the delivered DataCentric Marketers website as a polished project showcase.
 
-**Compliance note:** Website wording about consent, privacy or data accuracy does not on its own establish regulatory compliance. No independent privacy audit, penetration-test report, accessibility audit or measured Core Web Vitals report was supplied for this project record.
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/datacentric-marketers-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/datacentric-marketers-website-mockup.webp" alt="DataCentric Marketers responsive website portfolio mockup" width="100%" />
+  </a>
+</p>
 
-## Project images and design records
+*Click the image to open the full-resolution mockup.*
 
-The images below come from existing **DataCentric Marketers project files**. They are locally stored in this repository so GitHub renders them without relying on image URLs from third-party websites.
+### Website transformation overview
 
-### Homepage design exploration
+The published Tech Conversion comparison below presents the earlier and redesigned DataCentric Marketers website side by side.
 
-![DataCentric Marketers blue homepage design exploration, full page](images/datacentric-homepage-design-concept.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/datacentric-marketers-before-after.webp">
+    <img src="https://techconversion.tech/api/media/before-after/datacentric-marketers-before-after.webp" alt="DataCentric Marketers website redesign before and after comparison" width="100%" />
+  </a>
+</p>
 
-This visual is labelled as a **design concept**. Its charts, statistics, logos and other promotional copy are part of the concept artwork, not verified project results or a confirmed snapshot of the live site.
+*This is Tech Conversion's project-presentation comparison. The full-page screenshots below provide a more detailed view of the two versions.*
 
-### Custom Data Solutions page design exploration
+## Full-length BEFORE and AFTER comparison
 
-![DataCentric Marketers custom data solutions landing-page concept](images/datacentric-custom-data-design-concept.webp)
+<table>
+  <tr>
+    <th width="50%" align="center">BEFORE — Original Website</th>
+    <th width="50%" align="center">AFTER — Redesigned Website</th>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://techconversion.tech/api/media/before-after/datacentric-marketers-old-website-home-page.webp">
+        <img src="https://techconversion.tech/api/media/before-after/datacentric-marketers-old-website-home-page.webp" width="100%" alt="DataCentric Marketers original website full-page screenshot before redesign" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://techconversion.tech/api/media/before-after/datacentric-marketers-new-website-home-page.webp">
+        <img src="https://techconversion.tech/api/media/before-after/datacentric-marketers-new-website-home-page.webp" width="100%" alt="DataCentric Marketers redesigned website full-page screenshot after redesign" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-This is a saved landing-page **design concept** for a custom-data offering. Any numbers, testimonials and illustrative interface details inside the design should not be presented as independent evidence.
+<p align="center">
+  <strong>Click either screenshot to open the full-resolution image.</strong>
+</p>
 
-### Website working-page screenshot
+### Image provenance
 
-![DataCentric Marketers working homepage screenshot with data categories and enquiry form](images/datacentric-working-homepage-screenshot.webp)
+The mockup, before-and-after presentation, and full-length website screenshots above are embedded from Tech Conversion's public project-media endpoints. They document the website project visually; they are **not evidence of measured increases in leads, rankings, revenue or other business outcomes**.
 
-An additional saved website screenshot shows data categories, the journey from audience definition to delivery, and a sample request form. The WordPress administration bar visible in the source capture has been cropped out of the exported WebP. The source does not establish an exact publication date or final launch status.
-
-### Historical website capture — 16 June 2026
-
-![DataCentric Marketers historical website screenshot from 16 June 2026](images/datacentric-archived-homepage-2026-06-16.webp)
-
-The source filename records a browser capture on **16 June 2026**. It shows an earlier visual presentation focused on converting leads, with a services grid and enquiry routes. The filename provides the date; it does not independently verify the site's deployment history.
-
-## Before and after
-
-The dated historical screenshot and the later saved design files illustrate **different presentations of the DataCentric Marketers website**, but the project files do not establish a fully authenticated production-release timeline for each image. For that reason, this README does **not** present concept artwork as a confirmed launched “after” site or claim measured redesign improvement.
-
-| Historical website capture | Later website design concept |
-|---|---|
-| ![Historical DataCentric Marketers homepage, captured 16 June 2026](images/datacentric-archived-homepage-2026-06-16.webp) | ![DataCentric Marketers later blue homepage design concept](images/datacentric-homepage-design-concept.webp) |
-
-See other published comparisons at [Tech Conversion's portfolio](https://techconversion.tech/portfolio).
+Because these images are externally hosted, their GitHub rendering depends on the Tech Conversion URLs remaining publicly accessible. For a fully self-contained repository, client-approved copies can later be stored in an `images/` directory and referenced with relative paths.
 
 ## Key visitor journeys
 
@@ -108,13 +124,25 @@ See other published comparisons at [Tech Conversion's portfolio](https://techcon
 | Review tailor-made dataset options | [Custom Data Solutions](https://datacentricmarketers.com/custom-data-solutions/) |
 | Discuss requirements or request a sample | [Contact](https://datacentricmarketers.com/contact-us/) |
 
-Some legacy pages and newer pages display different navigation, telephone details and visual styles. Visitors should use the live website to verify current contact information and available services.
+Some legacy pages and newer pages may display different navigation, telephone details and visual styles. Visitors should use the live website to verify current contact information and available services.
+
+## Standards relevant to the website
+
+The following references are appropriate for evaluating a B2B marketing website. **They are not certifications or statements that the project passed a formal audit.**
+
+- [Core Web Vitals](https://web.dev/articles/vitals): measure loading performance, interaction responsiveness and visual stability on representative devices.
+- [WCAG 2.2, Level AA](https://www.w3.org/TR/WCAG22/): assess keyboard access, focus indicators, contrast, form labels and image alternatives.
+- [Google Search Essentials](https://developers.google.com/search/docs/essentials): check discoverability, useful content and crawl access for service pages.
+- [Schema.org](https://schema.org/): evaluate appropriate organisation, breadcrumb, website and service markup if implemented.
+- [GDPR](https://commission.europa.eu/law/law-topic/data-protection/data-protection-eu_en), [California privacy law](https://oag.ca.gov/privacy/ccpa) and [CAN-SPAM guidance](https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business): relevant legal references when marketing and personal information are processed, depending on the audience and activity.
+
+**Compliance note:** Website wording about consent, privacy or data accuracy does not on its own establish regulatory compliance. No independent privacy audit, penetration-test report, accessibility audit or measured Core Web Vitals report was supplied for this project record.
 
 ## Results
 
 Tech Conversion's public portfolio identifies DataCentric Marketers as a website project, and the business website is publicly accessible. **No independently verified project-specific results** were supplied for organic traffic, enquiry volume, sales conversion rate, data-sales revenue, Core Web Vitals or search rankings.
 
-Numbers and analytics-style graphics visible in the site's marketing content or saved designs are **not** proof of website-development outcomes. Measured results can be added when the source, reporting period, counting method and client permission to publish are available.
+Numbers and analytics-style graphics visible in the site's marketing content or project images are **not** proof of website-development outcomes. Measured results can be added when the source, reporting period, counting method and client permission to publish are available.
 
 ## About Tech Conversion
 
@@ -122,6 +150,15 @@ Numbers and analytics-style graphics visible in the site's marketing content or 
 
 - **Portfolio:** [techconversion.tech/portfolio](https://techconversion.tech/portfolio)
 - **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies)
+- **Before & after:** [techconversion.tech/before-after](https://techconversion.tech/before-after)
 - **Contact:** [contact@techconversion.tech](mailto:contact@techconversion.tech), +91 91507 86547
 
-This repository is a **public-facing project record**, not a distribution of the client's website source code, databases, CRM records, contact lists, personal information, private analytics, credentials or integrations. The included screenshot and design images are retained as documented project assets; client logos, names and other underlying intellectual property remain with their respective rights holders.
+## Repository scope and image credits
+
+This repository is a **public-facing project record**, not a distribution of the client's website source code, databases, CRM records, contact lists, personal information, private analytics, credentials or integrations.
+
+The website mockup, before-and-after presentation and full-length website captures are sourced from Tech Conversion's public project media. Client logos, names and other underlying intellectual property remain with their respective rights holders.
+
+---
+
+*Website project showcased by [Tech Conversion](https://techconversion.tech/).*
